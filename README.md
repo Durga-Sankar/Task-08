@@ -1,4 +1,4 @@
-# Task-08
+# RTO DETECTION APP (Task 08)
 Object Recognition using CNN model
 
 Task Description 📄
