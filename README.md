@@ -1,4 +1,4 @@
-# RTO DETECTION APP (Task 08)
+# RTO APP – Vehicle Number Plate Detection (Task 08)
 Object Recognition using CNN model
 
 Task Description 📄
